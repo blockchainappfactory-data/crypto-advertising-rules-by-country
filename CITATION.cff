@@ -14,6 +14,7 @@ license: CC-BY-4.0
 publisher:
   name: "Blockchain App Factory"
 url: "https://www.blockchainappfactory.com/blog/crypto-advertising-rules-by-country/"
+doi: "10.5281/zenodo.24506333"
 repository-code: "https://github.com/blockchainappfactory-data/crypto-advertising-rules-by-country"
 keywords:
   - crypto advertising regulation

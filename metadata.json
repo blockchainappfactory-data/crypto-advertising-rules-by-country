@@ -40,5 +40,5 @@
     {"relatedIdentifier": "https://www.blockchainappfactory.com/blog/crypto-advertising-rules-by-country/", "relatedIdentifierType": "URL", "relationType": "IsDocumentedBy"},
     {"relatedIdentifier": "https://github.com/blockchainappfactory-data/crypto-advertising-rules-by-country", "relatedIdentifierType": "URL", "relationType": "IsSupplementedBy"}
   ],
-  "identifiers": []
+  "identifiers": [{"identifier": "10.5281/zenodo.24506333", "identifierType": "DOI"}]
 }

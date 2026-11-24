@@ -2,7 +2,7 @@
 
 Global dataset of how regulators treat crypto ads, finfluencers and promotions.
 
-**Version 1.0 (2026-Q4) · License: CC BY 4.0 · DOI: to be added with the Zenodo release**
+**Version 1.0 (2026-Q4) · License: CC BY 4.0 · DOI: [10.5281/zenodo.24506333](https://doi.org/10.5281/zenodo.24506333)**
 
 > This dataset is information, not legal advice. Rules change, and the summaries here are simplified. Check the linked primary source and take local legal advice before relying on any row.
 
@@ -98,7 +98,7 @@ This dataset is provided for research and information only. It is not legal advi
 
 ## How to cite
 
-> Kamala Santhanath, A. (2026). *Crypto Advertising and Promotion Rules by Country* (Version 1.0) [Data set]. Blockchain App Factory. https://github.com/blockchainappfactory-data/crypto-advertising-rules-by-country
+> Kamala Santhanath, A. (2026). *Crypto Advertising and Promotion Rules by Country* (Version 1.0) [Data set]. Blockchain App Factory. https://doi.org/10.5281/zenodo.24506333
 
 BibTeX:
 
@@ -109,7 +109,8 @@ BibTeX:
   year      = {2026},
   version   = {1.0},
   publisher = {Blockchain App Factory},
-  url       = {https://github.com/blockchainappfactory-data/crypto-advertising-rules-by-country},
+  doi       = {10.5281/zenodo.24506333},
+  url       = {https://doi.org/10.5281/zenodo.24506333},
   note      = {Landing page: https://www.blockchainappfactory.com/blog/crypto-advertising-rules-by-country/}
 }
 ```
