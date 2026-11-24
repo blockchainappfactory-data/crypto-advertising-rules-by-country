@@ -1,0 +1,44 @@
+{
+  "titles": [
+    {"title": "Crypto Advertising and Promotion Rules by Country"},
+    {"title": "Global dataset of how regulators treat crypto ads, finfluencers and promotions", "titleType": "Subtitle"}
+  ],
+  "creators": [
+    {
+      "name": "Kamala Santhanath, Arun",
+      "nameType": "Personal",
+      "givenName": "Arun",
+      "familyName": "Kamala Santhanath",
+      "nameIdentifiers": [{"nameIdentifier": "https://orcid.org/0009-0001-5683-523X", "nameIdentifierScheme": "ORCID", "schemeUri": "https://orcid.org"}],
+      "affiliation": [{"name": "Blockchain App Factory"}]
+    }
+  ],
+  "publisher": "Blockchain App Factory",
+  "publicationYear": "2026",
+  "version": "1.0",
+  "dates": [{"date": "2026-11-24", "dateType": "Issued"}, {"date": "2026-11-24", "dateType": "Updated"}],
+  "types": {"resourceTypeGeneral": "Dataset", "resourceType": "Regulatory dataset"},
+  "language": "en",
+  "formats": ["text/csv"],
+  "rightsList": [{"rights": "Creative Commons Attribution 4.0 International", "rightsIdentifier": "CC-BY-4.0", "rightsUri": "https://creativecommons.org/licenses/by/4.0/"}],
+  "subjects": [
+    {"subject": "crypto advertising regulation"},
+    {"subject": "cryptoasset financial promotions"},
+    {"subject": "MiCA marketing communications"},
+    {"subject": "crypto influencer rules"},
+    {"subject": "virtual asset advertising"},
+    {"subject": "fintech regulation"},
+    {"subject": "regulatory dataset"},
+    {"subject": "compliance"}
+  ],
+  "descriptions": [
+    {"descriptionType": "Abstract", "description": "A dataset of 58 crypto-asset advertising and promotion rules across 37 jurisdictions (36 countries and territories plus the EU). Each row records the regulator, instrument, status, effective date, treatment of crypto advertising, and whether licensing, risk warnings, influencer duties or incentive limits apply, with a source link and verification status. Updated quarterly. Information only, not legal advice."},
+    {"descriptionType": "Methods", "description": "Rules were found through regulator sites, official gazettes, legislatures, central banks and secondary trackers, and verified against primary sources where possible. Unverified rows are kept and explained in the notes column. Summaries are written in the maintainers' own words."}
+  ],
+  "geoLocations": [{"geoLocationPlace": "Global (37 jurisdictions in v1.0)"}],
+  "relatedIdentifiers": [
+    {"relatedIdentifier": "https://www.blockchainappfactory.com/blog/crypto-advertising-rules-by-country/", "relatedIdentifierType": "URL", "relationType": "IsDocumentedBy"},
+    {"relatedIdentifier": "https://github.com/blockchainappfactory-data/crypto-advertising-rules-by-country", "relatedIdentifierType": "URL", "relationType": "IsSupplementedBy"}
+  ],
+  "identifiers": []
+}

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Crypto Advertising and Promotion Rules by Country"
+abstract: "A dataset of 58 crypto-asset advertising and promotion rules across 37 jurisdictions (36 countries and territories plus the EU), with regulator, status, licensing, risk warning, influencer and incentive fields, source links and verification status."
+authors:
+  - family-names: "Kamala Santhanath"
+    given-names: "Arun"
+    affiliation: "Blockchain App Factory"
+    orcid: "https://orcid.org/0009-0001-5683-523X"
+version: "1.0"
+date-released: "2026-11-24"
+license: CC-BY-4.0
+publisher:
+  name: "Blockchain App Factory"
+url: "https://www.blockchainappfactory.com/blog/crypto-advertising-rules-by-country/"
+repository-code: "https://github.com/blockchainappfactory-data/crypto-advertising-rules-by-country"
+keywords:
+  - crypto advertising regulation
+  - cryptoasset financial promotions
+  - MiCA marketing communications
+  - crypto influencer rules
+  - virtual asset advertising
+  - fintech regulation
+  - regulatory dataset
+  - compliance

@@ -1,0 +1,21 @@
+column,type,allowed_values,description
+record_id,string,"ISO code + optional sub-national code + 3-digit number (e.g. GB-001, US-NY-001)",Unique identifier for one rule in one jurisdiction
+jurisdiction,string,free text,"Country, the EU, or a sub-national or free-zone jurisdiction (e.g. United States: New York)"
+iso_code,string,"ISO 3166-1 alpha-2, or EU for EU-level rules",Country code of the jurisdiction
+region,string,Africa | Americas | Asia-Pacific | Europe | Middle East,Broad world region
+regulator,string,free text,Full name and acronym of the body that issued or enforces the rule
+rule_name,string,free text,"Official name of the law, regulation, guidance or notice"
+instrument_type,string,law | regulation | guidance | ban | proposal,Legal form of the instrument
+status,string,in_force | adopted_not_in_force | proposed | repealed,Legal status on the last_checked date
+effective_date,date (YYYY-MM-DD) or blank,ISO 8601 date,Date the rule took or takes effect; blank where not confirmed from a source
+crypto_ads_status,string,allowed | restricted | banned | no_specific_rule,"How the rule treats crypto advertising: restricted = allowed with conditions or only by licensed firms; banned = crypto activity or its promotion is prohibited; no_specific_rule = no crypto-specific advertising rule found in the instrument"
+authorisation_required,string,Y | N | unclear,Must the promoter or issuer be licensed or approved before advertising?
+risk_warning_required,string,Y | N | unclear,Does the rule require a risk warning or disclaimer in ads?
+influencer_rules,string,Y | N | unclear,Does the rule set specific duties for influencers or paid promoters?
+incentive_restrictions,string,Y | N | unclear,"Does the rule restrict incentives such as sign-up bonuses, airdrops or refer-a-friend rewards?"
+summary,string,max 300 characters,Plain-language summary written by the maintainers (not quoted)
+source_name,string,free text,Name of the source document or page
+source_url,string (URL),https URL,Link to the source used; primary (regulator or official) where verification_status = verified
+last_checked,date (YYYY-MM-DD),ISO 8601 date,Date the row was last checked against its source
+verification_status,string,verified | unverified,"verified = confirmed from a primary source (regulator, official gazette, legislature, central bank or issuing self-regulatory body); unverified = primary source not confirmed, reason given in notes"
+notes,string,free text,"Edge cases, pending changes and reasons for unverified status"
