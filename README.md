@@ -2,7 +2,7 @@
 
 Global dataset of how regulators treat crypto ads, finfluencers and promotions.
 
-**Version 1.0 (2026-Q4) · License: CC BY 4.0 · DOI: [10.5281/zenodo.24506333](https://doi.org/10.5281/zenodo.24506333)**
+**Version 1.0 (2026-Q4) · License: CC BY 4.0 · DOI: [10.5281/zenodo.24506332](https://doi.org/10.5281/zenodo.24506332)**
 
 > This dataset is information, not legal advice. Rules change, and the summaries here are simplified. Check the linked primary source and take local legal advice before relying on any row.
 
@@ -96,9 +96,19 @@ This dataset is provided for research and information only. It is not legal advi
 
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt the data for any purpose, provided you give credit.
 
+## Also available on
+
+- Zenodo (DOI): https://doi.org/10.5281/zenodo.24506332
+- Hugging Face: https://huggingface.co/datasets/BlockchainAppFactory-Data/crypto-advertising-rules-by-country
+- Kaggle: https://www.kaggle.com/datasets/blockchainappfactory/crypto-advertising-and-promotion-rules-by-country
+- DoltHub (SQL): https://www.dolthub.com/repositories/blockchainappfactory/crypto_advertising_rules
+- Lookup tool (Hugging Face Space): https://huggingface.co/spaces/BlockchainAppFactory-Data/crypto-advertising-rules-lookup
+- Map (Datawrapper): https://datawrapper.dwcdn.net/MoAPA/1/
+- Map (Tableau Public): https://public.tableau.com/app/profile/arun.kamala.santhanath/viz/CryptoAdvertisingandPromotionRulesbyCountry/CryptoAdvertisingRulesbyCountryv1_0
+
 ## How to cite
 
-> Kamala Santhanath, A. (2026). *Crypto Advertising and Promotion Rules by Country* (Version 1.0) [Data set]. Blockchain App Factory. https://doi.org/10.5281/zenodo.24506333
+> Kamala Santhanath, A. (2026). *Crypto Advertising and Promotion Rules by Country* (Version 1.0) [Data set]. Blockchain App Factory. https://doi.org/10.5281/zenodo.24506332
 
 BibTeX:
 
@@ -109,8 +119,8 @@ BibTeX:
   year      = {2026},
   version   = {1.0},
   publisher = {Blockchain App Factory},
-  doi       = {10.5281/zenodo.24506333},
-  url       = {https://doi.org/10.5281/zenodo.24506333},
+  doi       = {10.5281/zenodo.24506332},
+  url       = {https://doi.org/10.5281/zenodo.24506332},
   note      = {Landing page: https://www.blockchainappfactory.com/blog/crypto-advertising-rules-by-country/}
 }
 ```
